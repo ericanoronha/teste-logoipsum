@@ -1,6 +1,8 @@
-# logoipsum.github.io
+# logoipsum
 
 Description: Develop an ecommerce homepage
+
+[Click here to check it out](https://ericanoronha.github.io/teste-logoipsum/) :)
 
 ## Should have
 
